@@ -1,0 +1,10 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\bin\Debug\WinAppJuego.exe.config
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\bin\Debug\WinAppJuego.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\bin\Debug\WinAppJuego.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.FormJuego.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.Properties.Resources.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.csproj.GenerateResource.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppJuego\WinAppJuego\obj\Debug\WinAppJuego.pdb
